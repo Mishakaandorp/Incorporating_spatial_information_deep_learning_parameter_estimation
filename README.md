@@ -1,4 +1,4 @@
-# Incorporating_spatial_information_deep_learning_parameter_estimation
+# Incorporating spatial information in deep learning parameter estimation
 Code of publication 'Incorporating spatial information in deep learning parameter estimation with application to the intravoxel incoherent motion model in diffusion-weighted MRI'
 
 This code will be publicly available after the publication of the  manuscript. 
